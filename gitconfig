@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = laura.hardydes@gmail.com
+	name = Laura Hardy-Dessources
