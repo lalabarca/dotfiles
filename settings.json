@@ -19,7 +19,8 @@
     "editor.showFoldingControls": "always",
     "emmet.includeLanguages":
     {
-        "erb": "html"
+        "erb": "html",
+        "smarty": "html"
     },
     "emmet.triggerExpansionOnTab": true,
     "explorer.confirmDelete": false,
@@ -75,5 +76,11 @@
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Cobalt2",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "php.validate.executablePath": "",
+    "editor.accessibilitySupport": "off",
+    "security.workspace.trust.untrustedFiles": "open"
 }
